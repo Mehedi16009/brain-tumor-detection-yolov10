@@ -6,6 +6,7 @@ This folder contains training results, sample images, and model files related to
 - Source: Roboflow Public Dataset
 - Total Images: 1003 MRI images
 - Format: YOLOv8 (640x640), with preprocessing using Roboflow tools
+- Dataset Link: https://app.roboflow.com/computer-vision-by-mehedi/brain-tumour-detection-mri/models/brain-tumour-detection-mri/1
 
 ## Model & Training
 - Model: YOLOv10 + MobileNet Backbone
