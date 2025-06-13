@@ -6,7 +6,7 @@ This folder includes all materials related to training on the Figshare Brain Tum
 - Source: Figshare (Southern Medical University, Guangzhou)
 - Total Images: 3,064 T1-weighted contrast-enhanced MRI scans from 233 patients
 - Preprocessing: `.mat` to `.jpg`, resized to 640x640
-- dataset link: https://app.roboflow.com/computer-vision-by-mehedi/brain-tumor-detection-mri-6677c/4
+- Dataset link: https://app.roboflow.com/computer-vision-by-mehedi/brain-tumor-detection-mri-6677c/4
 
 ## Model & Training
 - Model: YOLOv10 + MobileNet Backbone
