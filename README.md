@@ -5,7 +5,9 @@ Dataset 1 (Roboflow): https://app.roboflow.com/computer-vision-by-mehedi/brain-t
 Dataset 2 (Figshare):https://app.roboflow.com/computer-vision-by-mehedi/brain-tumor-detection-mri-6677c/4
 
 # 🧠 NeuroYOLO: A Robust Tailored Model for Real-Time Brain Tumor Detection in MRI Data
-Methodology:
+# Methodology:
+
+
 <img width="700" height="500" alt="Methodology" src="https://github.com/user-attachments/assets/36b0ee3b-afa0-42d9-a8f6-114e3806e1da" />
 
 **Author:** Md. Mehedi Hasan  
@@ -15,7 +17,9 @@ Methodology:
 
 ---
 <img width="500" height="500" alt="IMG_6390" src="https://github.com/user-attachments/assets/cd3ad94b-231e-4c13-90e5-da7de905868f" />
-## 📝 Abstract
+
+
+# Abstract
 
 Timely and precise brain tumor detection is crucial for improving patient survival rates and treatment efficacy. This study introduces **Neurological You Only Look Once (NeuroYOLO)**, a novel real-time detection framework that enhances the YOLOv10 architecture with **MobileNetV3** for high-accuracy brain tumor identification in **Magnetic Resonance Imaging (MRI)** scans.
 
