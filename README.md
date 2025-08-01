@@ -5,6 +5,9 @@ Dataset 1 (Roboflow): https://app.roboflow.com/computer-vision-by-mehedi/brain-t
 Dataset 2 (Figshare):https://app.roboflow.com/computer-vision-by-mehedi/brain-tumor-detection-mri-6677c/4
 
 # 🧠 NeuroYOLO: A Robust Tailored Model for Real-Time Brain Tumor Detection in MRI Data
+Methodology:
+<img width="100" height="700" alt="Methodology" src="https://github.com/user-attachments/assets/36b0ee3b-afa0-42d9-a8f6-114e3806e1da" />
+
 <img width="1024" height="1024" alt="IMG_6390" src="https://github.com/user-attachments/assets/cd3ad94b-231e-4c13-90e5-da7de905868f" />
 
 **Author:** Md. Mehedi Hasan  
