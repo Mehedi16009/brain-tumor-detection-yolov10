@@ -1,8 +1,8 @@
 # Brain-Tumor-Detection-YOLOv10
 Real-time brain tumor detection on MRI scans using YOLOv10-MobileNetV3
 
-Dataset 1 (Roboflow): https://app.roboflow.com/computer-vision-by-mehedi/brain-tumour-detection-mri/models/brain-tumour-detection-mri/1
-Dataset 2 (Figshare):https://app.roboflow.com/computer-vision-by-mehedi/brain-tumor-detection-mri-6677c/4
+Dataset 1 (Roboflow): [Link](https://app.roboflow.com/computer-vision-by-mehedi/brain-tumour-detection-mri/models/brain-tumour-detection-mri/1)
+Dataset 2 (Figshare): [Link](https://app.roboflow.com/computer-vision-by-mehedi/brain-tumor-detection-mri-6677c/4)
 
 # 🧠 NeuroYOLO: A Robust Tailored Model for Real-Time Brain Tumor Detection in MRI Data
 # Methodology:
