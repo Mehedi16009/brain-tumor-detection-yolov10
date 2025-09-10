@@ -1,6 +1,6 @@
 # Brain-Tumor-Detection-YOLOv10
 Real-time brain tumor detection on MRI scans using YOLOv10-MobileNetV3
-
+Status: Published online at Biomedical Materials & Devices (Springer Nature), September 2025: [Link](https://rdcu.be/eFiOm)
 Dataset 1 (Roboflow): [Link](https://app.roboflow.com/computer-vision-by-mehedi/brain-tumour-detection-mri/models/brain-tumour-detection-mri/1)
 Dataset 2 (Figshare): [Link](https://app.roboflow.com/computer-vision-by-mehedi/brain-tumor-detection-mri-6677c/4)
 
